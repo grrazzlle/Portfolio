@@ -1,2 +1,1 @@
-# Homework2
-# Homework2
+University of Miami Full Stack Course Homework number 2. This homework is about making a responsive website, to check if it is responsive change the pixel width of your browser.
