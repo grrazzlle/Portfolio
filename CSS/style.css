@@ -1,0 +1,98 @@
+body {
+    background: rgb(238, 238, 238);
+    padding-bottom: 50px;
+}
+nav {
+    background: white;
+}
+.name {
+    background-color: rgb(106, 171, 164);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.nav-stuff {
+    color:grey;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+a {
+    color:grey;
+}
+h2 {
+    color:rgb(106, 171, 164);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+hr {
+    display: block;
+    margin-top: 0;
+    margin-bottom: auto;
+    border-width: 2px;
+}
+.container {
+    margin:0;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: tomato;
+}
+.third {
+    width: 33%;
+}
+.whole {
+    width: 100%;
+}
+.card-height {
+    min-height: 350px;
+}
+.card-img {
+    margin: 10px;
+    border: 1px solid rgb(106, 171, 164);
+}
+.background-img {
+    background-size: cover;
+    margin: 20px;
+    border: 1px solid black;
+    background-position: center;
+    padding-top: 100%;
+}
+.background-img1 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT0OJ9Lc_Ty_WCsbJXrzKvg5vbyXHSlsLLhBg&usqp=CAU);
+}
+.background-img2 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnc096TGRV6ee3p-09p1EZVYza3ynz5XAJbA&usqp=CAU);
+}
+.background-img3 {
+    background-image: url(https://i.pinimg.com/474x/86/e0/b0/86e0b01d272d893e666d7a1946024f9c.jpg);
+}
+.background-img4 {
+    background-image: url(https://nszdeveloper.com/static/media/js.caa681b4.png);
+}
+.background-img5 {
+    background-image: url(https://i.pinimg.com/originals/07/00/cc/0700cc36b1ce47e8574e3cfb618b8478.jpg);
+}
+.portfolio-color {
+    background-color: rgb(106, 171, 164);
+    color: white;
+}
+.btn {
+    background-color: rgb(106, 171, 164);
+    color: white;
+}
+footer {
+    background-color: gray;
+    color: white;
+    text-align: center;
+    height: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.footer-hr {
+    display: block;
+    margin-bottom: 0px;
+    border: 4px solid rgb(106, 171, 164);
+}
