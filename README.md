@@ -5,7 +5,7 @@
 
   ## Description
 
-  This application allows me to show off my projects
+  This application uses the Bootstrap CSS Framework to create a mobile responsive portfolio
 
   ## Table of contents
 
@@ -19,18 +19,18 @@
 
   ## Installation
 
-  
+  Pull from github and host on github pages
 
   ## Usage
 
-  Click on the "Portfolio" tab on the navbar and then click to check out some of my projects
+  Use tabs to navigate through the webpage, click on an image of a project to be directed to that project
 
   ## Licence
 
   None 
   Find licence info [here](https://choosealicense.com/)
 
-  ## Contributoring
+  ## Contributing
 
   Self
 
