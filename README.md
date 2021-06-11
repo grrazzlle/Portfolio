@@ -19,7 +19,7 @@
 
   ## Installation
 
-  Pull from github and host on github pages
+  Clone from github and host on github pages
 
   ## Usage
 
